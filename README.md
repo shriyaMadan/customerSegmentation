@@ -1,4 +1,4 @@
-Customer Segmentation Project
+# Customer Segmentation Project
 - Exploratory data analysis
 - Implement K means clustering algorithm
 - Evaluation with Elbow method and Silhoutte score
